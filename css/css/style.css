@@ -1491,3 +1491,11 @@ span.error {
     height: 100%;
     border: 1px solid red;
     background: #000; }
+
+div{
+  background-color: black;
+}
+.property-grid{
+  display: grid;
+  grid: 200px / auto auto auto;
+}
